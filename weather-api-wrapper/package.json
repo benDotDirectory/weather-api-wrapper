@@ -1,0 +1,20 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "description": "weather dashboard for weather station",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon .",
+    "start": "node ."
+  },
+  "author": "ben",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pug": "^3.0.2",
+    "winston": "^3.3.3"
+  }
+}
