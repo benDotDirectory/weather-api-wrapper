@@ -9,13 +9,15 @@ The API for these devices is simple enough to where there are 2 similar endpoint
 This is just a basic express app, so build and host like so:
 ```
 # clone repo and build
-git clone https://github.com/benDotDirectory/weather-api-wrapper.git ~/weather-api-wrapper
-cd ~/weather-api-wrapper
-npm install
+$ git clone https://github.com/benDotDirectory/weather-api-wrapper.git ~/weather-api-wrapper
+$ cd ~/weather-api-wrapper
+$ npm install
 # install pm2 process manager to run the server
-npm install -g pm2
-pm2 start index.js --name "weather-api-wrapper"
+$ npm install -g pm2
+$ pm2 start index.js --name "weather-api-wrapper"
 ```
+
+Configure a reverse-proxy to serve the content from ```http://localhost:$port``` to ```//serverhostname``` for internal use. This has no rate-limiting built-in.
 
 ## .env
 You probably want to make a ```.env``` file in the project directory, with the following values:
