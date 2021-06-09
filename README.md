@@ -3,7 +3,7 @@ API Wrapper for Ambient Weather sensor devices.
 (https://ambientweather.docs.apiary.io)
 
 ## Why?
-The API for these devices is simple enough to where there are 2 similar endpoints that give you a large JSON dump. This is great for pulling all the data, but if you want grab on field, the wind speed for example, it would be a minor annoyance to parse the JSON for that result. This aims to bridge that gap. Instead of querying one endpoint and sorting through a ton of JSON for one value, this lets you query a more specific endpoint like ```/get-wind-speed-mph```.
+The API for these devices is simple enough to where there are 2 similar endpoints that give you a large JSON dump. This is great for pulling all the data, but if you want grab one field, it would be a minor annoyance to parse the JSON for that result. This aims to bridge that gap. Instead of querying one endpoint and sorting through a ton of JSON for one value, this lets you query a more specific endpoint like ```/get-wind-speed-mph```.
 
 ## Build/host
 This is just a basic express app, so build and host like so:
