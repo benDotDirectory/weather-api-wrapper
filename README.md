@@ -31,7 +31,7 @@ APP_KEY="_app key here_" # https://ambientweather.net/account
 ```
 
 ## Usage
-Make a ```GET``` requests to any of the endpoints listed below. Navigating to ```http://localhost:$port$``` will show a test page with all the endpoints as well.
+Make a ```GET``` requests to any of the endpoints listed below. Navigating to ```http://localhost:$port``` will show a test page with all the endpoints as well.
 
 ## Endpoints
 - ```/list-devices```: Returns the same results as ```/devices``` from the official API
