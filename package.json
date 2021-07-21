@@ -1,13 +1,13 @@
 {
-  "name": "weather-dashboard",
+  "name": "weather-api-test",
   "version": "1.0.0",
-  "description": "weather dashboard for weather station",
+  "description": "test application for chance's weather station",
   "main": "index.js",
   "scripts": {
     "test": "nodemon .",
     "start": "node ."
   },
-  "author": "ben",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
