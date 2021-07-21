@@ -1,6 +1,769 @@
-info: test
-info: test
-info: test
-info: test
-info: Express server listening (port: 4000)
-info: Express server listening (port: 4000)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:18:26 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:18:38 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:18:42 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:18:45 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:19:12 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:19:19 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:19:26 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:19:45 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:19:55 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:20:18 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:20:23 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:21:09 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:21:11 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:21:13 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:21:21 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:21:34 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:21:44 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:21:47 GMT-0400 (Eastern Daylight Time)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:22:49 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:22:50 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:23:00 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: 
+
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:23:00 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: 
+** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:25:12 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: 
+** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:25:19 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: 
+** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:25:24 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: 
+** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:25:45 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: 
+** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:25:47 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: 
+** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:25:48 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: 
+** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:25:50 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:25:54 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:25:55 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:25:57 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:26:38 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:27:48 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:30:02 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:30:30 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:39:20 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:43:27 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:43:29 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:43:32 GMT-0400 (Eastern Daylight Time)
+error: No APP_KEY provided in .env!
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:43:36 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:45:38 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:45:58 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices/E0:98:06:A3:3A:32?apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903&applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:49:43 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices/
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:50:27 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices/
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:51:10 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices/
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:51:14 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices/
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:51:19 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices/
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices//applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:51:45 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices/
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices/?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:53:10 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:54:02 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices?applicationKey='d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e'&apiKey='cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903'
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:55:02 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices?applicationKey="d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e"&apiKey="cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903"
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:57:38 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e%apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:57:49 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices\?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e%apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 18:58:03 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices\?applicationKey\=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e\&apiKey\=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: https://api.ambientweather.net/v1/devices\?applicationKey\=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e\&apiKey\=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:01:41 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: https://api.ambientweather.net/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:01:57 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:02:11 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: https://api.ambientweather.net/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:02:34 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:02:43 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: [object Object]
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:02:55 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:03:00 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: https://api.ambientweather.net/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: https://api.ambientweather.net/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:03:19 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://api.ambientweather.net/v1/devices
+info: Express server started. (production=false, port=4000)
+info: url: https://api.ambientweather.net/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: url: https://api.ambientweather.net/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:04:10 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-mock.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-mock.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-mock.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:05:16 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:07:36 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:07:40 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:08:10 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:10:07 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:10:23 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:10:28 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:11:11 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:11:33 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:11:46 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:12:09 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:14:46 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:15:57 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:15:58 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:17:46 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: url: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:19:17 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:19:42 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:22:34 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:22:38 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:25:14 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:25:32 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:25:45 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:26:03 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:26:20 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:26:36 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:26:58 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:27:14 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:27:21 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:29:01 GMT-0400 (Eastern Daylight Time)
+info: apiUrl: https://private-anon-c466bd994e-ambientweather.apiary-proxy.com/v1/devices?applicationKey=d5ebfed2e1f644a5818551b882c1712f438c8343798f43b889e02bcd39bc8f0e&apiKey=cfdc9acd63be4f2d9ffca51edd4f69fcf859ef419c7b4180ba4c830ba6fb0903
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:29:15 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:30:07 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:32:11 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:33:26 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:34:14 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:35:13 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:35:15 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Wed May 19 2021 19:36:15 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Thu May 20 2021 14:41:26 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Thu May 20 2021 14:42:58 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Thu May 20 2021 14:43:06 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Thu May 20 2021 14:43:20 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Thu May 20 2021 14:44:14 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Thu May 20 2021 14:44:38 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Thu May 20 2021 14:45:04 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Thu May 20 2021 14:45:37 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production=false, port=4000)
+info: ** weather-dashboard **
+info: Logging started: Mon Jun 07 2021 09:32:41 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 13:49:35 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 13:50:55 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 13:51:12 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 13:51:21 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 13:54:17 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:18:49 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:20:40 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:20:53 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:20:58 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:21:08 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:21:23 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:23:34 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:24:02 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:24:05 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:24:12 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:25:08 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:41:51 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:42:18 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:42:34 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:42:46 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:43:08 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:43:25 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:43:35 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:43:38 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:43:42 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:44:11 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:44:23 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:45:22 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:46:07 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 14:46:59 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:08:58 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:09:07 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:09:29 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:10:22 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:10:29 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:10:51 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:11:08 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:11:15 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:11:17 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:11:48 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:12:05 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:12:27 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:12:36 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:12:36 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:13:23 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:27:55 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:28:21 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:28:27 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:28:33 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:28:36 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:29:12 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:29:16 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:29:36 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:29:42 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:29:48 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:29:57 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:30:09 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:30:17 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:30:28 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:30:38 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:31:05 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:31:35 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:31:57 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:32:06 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:32:19 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:42:42 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:45:43 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:45:45 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:49:03 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:49:33 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:49:42 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:49:45 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:49:53 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:50:00 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:50:08 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:50:58 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:51:13 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:52:52 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:53:08 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:53:20 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:53:38 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:54:09 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:54:15 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:54:20 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:54:27 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:54:36 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:58:18 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:58:29 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:58:51 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 15:59:03 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 16:07:39 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 16:08:12 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 16:08:32 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 16:08:40 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 16:08:49 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 16:12:14 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jun 08 2021 16:24:41 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jul 20 2021 20:51:44 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jul 20 2021 20:57:38 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jul 20 2021 20:58:10 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jul 20 2021 20:59:02 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jul 20 2021 21:01:48 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jul 20 2021 21:02:20 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jul 20 2021 21:24:03 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jul 20 2021 21:26:07 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: true, port: 4000)
+info: ** weather-dashboard **
+info: Logging started: Tue Jul 20 2021 21:27:35 GMT-0400 (Eastern Daylight Time)
+info: Express server started. (production: false, port: 4000)

@@ -12,18 +12,33 @@ const https = require("https");
 const http = require("http"); // @WORK
 require("dotenv").config({ path: path.join(__dirname, ".env") });
 
-/* Env variables */
+let production;
+if (process.env.PRODUCTION.toLowerCase() == "true") {
+    production = true;
+} else {
+    production = false;
+}
 
-// @WORK
-// Have to use this server that servers dummy data at work to test with since the firewall blocks the actual API site
-let listDevices = "http://localhost:4040/list-devices";
-let queryDeviceData = "http://localhost:4040/query-device-data"
+// Configure API (https://ambientweather.docs.apiary.io/)
+const macAddress = process.env.MAC_ADDRESS || logger.error("No MAC_ADDRESS in .env!");
+const apiKey = process.env.API_KEY || logger.error("No API_KEY in .env!");
+const appKey = process.env.APP_KEY || logger.error("No APP_KEY in .env!");
+
+const apiBase = "https://api.ambientweather.net/v1/devices";
+const keys = "?applicationKey=" + appKey + "&apiKey=" + apiKey;
+
+const listDevices = apiBase + keys;
+const queryDeviceData = apiBase + "/" + macAddress + keys;
 
 /*
 *   Index
 */
 routes.get("/", (req, res) => {
-    res.render("index.pug");
+    if (!production) {
+        res.render("index.pug");
+    } else {
+        return;
+    }
 });
 
 /*
@@ -32,7 +47,7 @@ routes.get("/", (req, res) => {
 // list-devices
 routes.get("/list-devices", (req, res) => {
     const url = listDevices;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -47,7 +62,7 @@ routes.get("/list-devices", (req, res) => {
 // query-device-data
 routes.get("/query-device-data", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -66,7 +81,7 @@ routes.get("/query-device-data", (req, res) => {
 // get-device-info
 routes.get("/get-device-info", (req, res) => {
     const url = listDevices;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -83,7 +98,7 @@ routes.get("/get-device-info", (req, res) => {
 // Date in UTC format
 routes.get("/get-date-utc", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -100,7 +115,7 @@ routes.get("/get-date-utc", (req, res) => {
 // Date
 routes.get("/get-date", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -118,7 +133,7 @@ routes.get("/get-date", (req, res) => {
 // Wind direction
 routes.get("/get-wind-direction", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -135,7 +150,7 @@ routes.get("/get-wind-direction", (req, res) => {
 // Wind speed in MPH
 routes.get("/get-wind-speed-mph", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -152,7 +167,7 @@ routes.get("/get-wind-speed-mph", (req, res) => {
 // Max wind speed in the last 10 minutes, mph
 routes.get("/get-wind-gust-mph", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -169,7 +184,7 @@ routes.get("/get-wind-gust-mph", (req, res) => {
 // Maximum wind speed in last day, mph
 routes.get("/get-max-wind-speed-1d", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -186,7 +201,7 @@ routes.get("/get-max-wind-speed-1d", (req, res) => {
 // Wind direction at which the wind gust occurred, 0-360º
 routes.get("/get-wind-gust-direction", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -203,7 +218,7 @@ routes.get("/get-wind-gust-direction", (req, res) => {
 // Average wind direction, 2 minute average, mph
 routes.get("/get-avg-wind-direction-2m", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -220,7 +235,7 @@ routes.get("/get-avg-wind-direction-2m", (req, res) => {
 // Average wind speed, 2 minute average, mph
 routes.get("/get-avg-wind-speed-2m", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -237,7 +252,7 @@ routes.get("/get-avg-wind-speed-2m", (req, res) => {
 // Average wind direction, 10 minute average, 0-360º
 routes.get("/get-avg-wind-direction-10m", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -254,7 +269,7 @@ routes.get("/get-avg-wind-direction-10m", (req, res) => {
 // Average wind speed, 10 minute average, mph
 routes.get("/get-avg-wind-speed-10m", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -271,7 +286,7 @@ routes.get("/get-avg-wind-speed-10m", (req, res) => {
 // Outdoor Temperature, ºF
 routes.get("/get-outdoor-temp-f", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -288,7 +303,7 @@ routes.get("/get-outdoor-temp-f", (req, res) => {
 // Outdoor Humidity, 0-100%
 routes.get("/get-humidity", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -305,7 +320,7 @@ routes.get("/get-humidity", (req, res) => {
 // Relative Pressure, inHg
 routes.get("/get-relative-pressure", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -322,7 +337,7 @@ routes.get("/get-relative-pressure", (req, res) => {
 // Absolute Pressure, inHg
 routes.get("/get-absolute-pressure", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -339,7 +354,7 @@ routes.get("/get-absolute-pressure", (req, res) => {
 // Indoor Temperature, ºF
 routes.get("/get-indoor-temp-f", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -356,7 +371,7 @@ routes.get("/get-indoor-temp-f", (req, res) => {
 // Indoor Humidity, 0-100%
 routes.get("/get-indoor-humidity", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -373,7 +388,7 @@ routes.get("/get-indoor-humidity", (req, res) => {
 // Hourly Rain Rate, in/hr
 routes.get("/get-hourly-rain-rate", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -390,7 +405,7 @@ routes.get("/get-hourly-rain-rate", (req, res) => {
 // Daily Rain, in
 routes.get("/get-daily-rain-in", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -407,7 +422,7 @@ routes.get("/get-daily-rain-in", (req, res) => {
 // Monthly Rain, in
 routes.get("/get-monthly-rain-in", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -424,7 +439,7 @@ routes.get("/get-monthly-rain-in", (req, res) => {
 // Yearly Rain, in
 routes.get("/get-yearly-rain-in", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -441,7 +456,7 @@ routes.get("/get-yearly-rain-in", (req, res) => {
 // if < 50ºF => Wind Chill, if > 68ºF => Heat Index (calculated on server)
 routes.get("/get-feels-like-temp", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;
@@ -458,7 +473,7 @@ routes.get("/get-feels-like-temp", (req, res) => {
 // Dew Point, ºF (calculated on server)
 routes.get("/get-dew-point", (req, res) => {
     const url = queryDeviceData;
-    http.get(url, (resp) => {
+    https.get(url, (resp) => {
         let data = "";
         resp.on("data", (chunk) => {
             data += chunk;

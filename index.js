@@ -1,45 +1,40 @@
 /*
-*   weather-api-test
+*   weather-dashboard
 *   index.js
 *
-*   Main entry point. Run "npm start" or "npm test"
+*   Main entry point. Run: "npm start" or "npm test"
 */
 
-// Imports & config
-const fs = require("fs");
+/* Imports & config */
 const path = require("path");
 
 require("dotenv").config({ path: path.join(__dirname, ".env") });
 
-const express = require("express");
-const app = express();
-const port = process.env.PORT || 4000;
+let production;
+if (process.env.PRODUCTION.toLowerCase() == "true") {
+    production = true;
+} else {
+    production = false;
+}
 
-const pug = require("pug");
+const https = require("https");
 const axios = require("axios");
 
-// Production?
-let productionEnabled;
-if (process.env.PRODUCTION == "true") {
-    productionEnabled = true;
-} else {
-    productionEnabled = false;
-}
+const express = require("express");
+const app = express();
+const port = process.env.PORT || 4040;
+app.set("view engine", "pug");
+app.use(express.static(path.join(__dirname, "/views")));
 
-const winston = require("winston");
-const logFile = process.env.LOG_FILE || path.join(__dirname, "/logs/log.txt");
-const logger = winston.createLogger({
-    format: winston.format.simple(),
-    transports: [
-        new winston.transports.File({ filename: logFile })
-    ]
-});
+const routes = require(path.join(__dirname, "/routes.js"));
+app.use("/", routes);
 
-if (!productionEnabled) {
-    logger.add(new winston.transports.Console({ format: winston.format.simple() }));
-}
+const logger = require(path.join(__dirname, "/logger.js")).logger;
 
-// Start express
+logger.info("** weather-dashboard **");
+logger.info("Logging started: " + new Date());
+
+/* Start express server */
 app.listen(port, () => {
-    logger.info("Express server listening (port: " + port + ")");
+    logger.info("Express server started. (production: " + production + ", port: " + port + ")");
 });
