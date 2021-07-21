@@ -13,7 +13,7 @@ const http = require("http"); // @WORK
 require("dotenv").config({ path: path.join(__dirname, ".env") });
 
 let production;
-if (process.env.PRODUCTION.toLowerCase() == "true") {
+if (process.env.PRODUCTION == "true") {
     production = true;
 } else {
     production = false;
